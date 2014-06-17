@@ -4,7 +4,7 @@
 
 1. iostat
 
-    yum install -y sysstat
+        yum install -y sysstat
 
 ### Installation ###
 
